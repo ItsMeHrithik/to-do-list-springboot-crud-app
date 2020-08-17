@@ -1,0 +1,5 @@
+package com.todoList.springboot.model;
+
+public class Todo {
+
+}

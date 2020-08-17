@@ -1,0 +1,5 @@
+package com.todoList.springboot.exception;
+
+public class ResourceNotFoundException {
+
+}

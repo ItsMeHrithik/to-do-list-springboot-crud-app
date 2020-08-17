@@ -1,0 +1,5 @@
+package com.todoList.springboot.repository;
+
+public interface TodoRepository {
+
+}
